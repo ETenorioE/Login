@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Login</string>
+
+   <string name="imgdescrip">Fondo de pantalla superior</string>
+   <string name="title1">ACCEDISTE A LA APP DE SISTEMA DE VIGILANCIA DE MATERNIDAD</string>
+   <string name="st1">INICIO DE SESIÓN</string>
+    <string name="inputDNI">POR FAVOR INGRESE SU DNI</string>
+    <string name="hintDNI">76543210</string>
+    <string name="btnin">INGRESAR</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
