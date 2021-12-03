@@ -5,7 +5,7 @@
         protected function Conexion(){
             try{
                 //local
-                $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=bd_webservice","root","");
+                $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=login","root","");
                 return $conectar;
 
             }catch (Exception $e){

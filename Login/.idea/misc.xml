@@ -6,10 +6,12 @@
         <entry key="..\:/Users/Computer/AndroidStudioProjects/Login/app/src/main/res/drawable/boton.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/Computer/AndroidStudioProjects/Login/app/src/main/res/drawable/input_edithtext.xml" value="0.3717948717948718" />
         <entry key="..\:/Users/Computer/AndroidStudioProjects/Login/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/diego/Documents/Login/Login/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/diego/Documents/Login/Login/app/src/main/res/layout/activity_welcome.xml" value="0.22395833333333334" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">

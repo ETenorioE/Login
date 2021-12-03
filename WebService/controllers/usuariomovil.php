@@ -8,7 +8,7 @@
 	$body = json_decode(file_get_contents("php://input"),true);
 
     
- 	switch($_GET["op"]){
+ 	switch($_POST["op"]){
 
         case "GetId":
             $datos= $usuariomovil->get_user_x_id($body["user_dni"]);
